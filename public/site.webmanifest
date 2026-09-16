@@ -1,0 +1,21 @@
+{
+  "name": "Mai Toms",
+  "short_name": "Mai Toms",
+  "description": "Personal website and blog by Mai Toms",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1822",
+  "theme_color": "#102838",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ]
+}
