@@ -9,8 +9,8 @@ Super important links to things — projects I've worked on, stuff I recommend, 
 
 ## Find me
 
-- [GitHub](https://github.com/maitoms)
-- [LinkedIn](https://linkedin.com/in/maitoms)
+- [GitHub](https://github.com/mtoms94)
+- [LinkedIn](https://www.linkedin.com/in/mairead-toms-a44144107/)
 - [Resume](/MaireadTomsResume.pdf)
 
 ## Projects

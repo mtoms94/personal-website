@@ -1,0 +1,10 @@
+# https://maitoms.dev/robots.txt
+User-agent: *
+Allow: /
+
+# Keep the PDF downloadable via direct link, but out of search results
+Disallow: /MaireadTomsResume.pdf
+
+# Blog is hidden until ready — don't index empty/draft routes
+Disallow: /blog/
+Disallow: /blog

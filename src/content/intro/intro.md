@@ -1,8 +1,8 @@
 ---
-title: Hello, I'm Mai 👋
+title: Hello, I'm Mairead 👋
 ---
 
-I'm a full-stack software developer currently based in Virginia. 
+I'm a full-stack software developer currently based in Virginia. I also go by Mai sometimes.
 
 I made this website because even in this new age of AI-assisted development, I did not want to perform a three-major-version upgrade on my long-neglected Gatsby [previous personal website](https://github.com/mtoms94/gatsby-personal-website/tree/master). Eight+ years of professional development experience has taught me a lot of things, including that this would not be a fun time.
 

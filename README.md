@@ -1,4 +1,4 @@
-# Mai Toms — Personal Website
+# Mairead Toms — Personal Website
 
 Simple personal site built with [Astro](https://astro.build) 7, deployed on Netlify.
 
