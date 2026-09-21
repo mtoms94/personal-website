@@ -16,7 +16,10 @@ const recentPosts = (await getCollection('blog'))
 */
 ---
 
-<BaseLayout title="Mairead Toms">
+<BaseLayout
+  title="Mairead Toms"
+  description="My name is Mairead and sometimes Mai. I'm a software developer currently based in Virginia. Outside of work I enjoy biking, running, and finding different ways to hang out outside."
+>
   <article class="page-intro">
     <h1>{intro.data.title}</h1>
     <Content />
